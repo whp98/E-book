@@ -20,6 +20,7 @@ scrapy-chinese.pdf
 廖雪峰_Python3_ .pdf  
 跟老齐学python3.pdf  
 鸟哥Linux私房菜第四版.pdf  
+京东区块链白皮书.pdf    
 # 相关
 主要为Python电子书、Django框架电子书  
 
