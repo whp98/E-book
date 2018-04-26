@@ -21,7 +21,8 @@ scrapy-chinese.pdf
 跟老齐学python3.pdf  
 鸟哥Linux私房菜第四版.pdf  
 京东区块链白皮书.pdf  
-MySQL必知必会.pdf    
+MySQL必知必会.pdf  
+Django Web开发指南.pdf      
 # 相关
 主要为Python电子书、Django框架电子书  
 
