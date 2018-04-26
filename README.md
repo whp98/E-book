@@ -1,5 +1,5 @@
 # 博客园笔记
-[个人培训学习笔记](http://www.cnblogs.com/guotianbao/)
+[个人学习笔记](http://www.cnblogs.com/guotianbao/)
 # 声明
 图书均来自网络搜集的电子书资源  
 仅用于学习交流用途  
@@ -22,7 +22,9 @@ scrapy-chinese.pdf
 鸟哥Linux私房菜第四版.pdf  
 京东区块链白皮书.pdf  
 MySQL必知必会.pdf  
-Django Web开发指南.pdf      
+Django Web开发指南.pdf  
+《Linux就该这么学》v0.2版本.pdf  
+Python编程：从入门到实践-无损压缩.pdf      
 # 相关
 主要为Python电子书、Django框架电子书  
 
