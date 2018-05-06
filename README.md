@@ -25,6 +25,7 @@ MySQL必知必会.pdf
 Django Web开发指南.pdf  
 《Linux就该这么学》v0.2版本.pdf  
 Python编程：从入门到实践-无损压缩.pdf      
+Python自动化运维：技术与最佳实践.文字版.pdf  
 # 相关
 主要为Python电子书、Django框架电子书  
 
